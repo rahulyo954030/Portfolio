@@ -12,7 +12,7 @@ const Photos = () => {
   return (
     <div>
       <div className='photos_container'>
-            
+            <h1>Photos</h1>
             <div className='pic_container'>
             <div>
                 <img src={pic7} alt="photo" />

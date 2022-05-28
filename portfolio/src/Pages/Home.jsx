@@ -12,19 +12,19 @@ const Home = () => {
     <div className='Home_parent'>
         <div className='pro_info'>
         <div>
-            <h2>Hi I'm</h2>
+            <h2>🅷🅸 🅸'🅼</h2>
         </div>
         <div>
-            <h1>Rahul Singh</h1>
+            <h1>🆁🅰🅷🆄🅻 🆂🅸🅽🅶🅷</h1>
         </div>
         <div>
             <ul>
-                <li><span>Full Stack Web Developer...</span></li>
-                <li><span>Video Creator...</span></li>
+                <li><span>🅵🆄🅻🅻  🆂🆃🅰🅲🅺 🆆🅴🅱  🅳🅴🆅🅴🅻🅾🅿🅴🆁</span></li>
+                <li><span>🆅🅸🅳🅴🅾  🅲🆁🅴🅰🆃🅾🆁</span></li>
             </ul>
         </div>
         </div>
-        <div>
+        <div className='profilepic_div'>
             <img className='profile_pic' src="https://ca.slack-edge.com/T02QFJUB5DF-U03AS34NCG3-7f56b8652531-512" alt="profile picture" />
         </div>
     </div>
@@ -34,24 +34,16 @@ const Home = () => {
             </div>
             <div>
                 <p>Hello,
-I'm Rahul Singh From New Delhi.
-
-I was belong to non coding background but I was very fond of coding in 12th class because in those days there was a lot of craze for Facebook, Instagram, Amazon, and Flipkart so I thought I would do a coding course but due to financial status I was not able to do that.
-
-One day a friend of mine told me about a platform and the name of that platform was Masai School. This is a platform that has changed the education system of the whole of India. So this platform was not an ordinary platform for me. This platform was a very special platform for me. Here I completed my education in Coding (Full Stack Web Development).
-
-After graduating from Masai School, now I have become capable enough that I can give equal competition to those with a CS background. So I want to be an inspiration to all those who want to code even from non-coding background. So I believe that every person should have the passion to do something. If there is passion then a person can do anything.
-
-Thank You.</p>
+                Strong in design and integration with intuitive problem-solving skills. Proficient in JAVASCRIPT, CSS, HTML and REACT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer (MERN Stack Web Developer) with a reputed firm driven by technology.</p>
             </div>
             <div className='view_resume-div'>
                 <div className='view_resume'>
-                <h3>View Full Resume</h3>
+              <a href="https://drive.google.com/file/d/1z6S-tqT9moZ2L_DqTLrzgr3QEZfX_TQi/view?usp=sharing">  <h3>View Full Resume</h3></a>
                 </div>
             </div>
         </div>
-        <div>
-            <div>
+        <div className='projectHeading'>
+            <div className='recentprojectHeading'>
             <h1>Recent Project</h1>
             </div>
             <div className='video_div'>
@@ -68,19 +60,19 @@ Thank You.</p>
         </div>
         
         <div className='Home_parent'>
-        <div>
+        <div className='profilepic_div'>
             <img className='profile_pic' src="https://ca.slack-edge.com/T02QFJUB5DF-U03AS34NCG3-7f56b8652531-512" alt="profile picture" />
         </div>
 
         <div className='lower_info'>    
         <div>
-            <h4>Contact</h4>
+            <h2>Contact</h2>
         </div>
         <div>
-            <h2>Rahul Singh</h2>
+            <h3>🆁🅰🅷🆄🅻 🆂🅸🅽🅶🅷</h3>
         </div>
         <div>
-            <h4>Full Stack Web Developer</h4>
+            <h3>🅵🆄🅻🅻 🆂🆃🅰🅲🅺 🆆🅴🅱 🅳🅴🆅🅴🅻🅾🅿🅴🆁</h3>
         </div>
         <div>
             <p>rahulyo954030@gmail.com</p>
