@@ -1,0 +1,74 @@
+.Home_parent{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 1px solid;
+    text-align: center;
+}
+.Home_parent>div{
+    border: 1px solid;
+}
+.view_resume{
+    border: 1px solid;
+    width: 200px;
+    text-align: center;
+}
+.pic_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2%;
+}
+.profile_pic{
+    border-radius: 50%;
+}
+.pro_info{
+    background-image: url(https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(177, 19, 19);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.lower_info{
+    background-image: url(https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(177, 19, 19);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 5%;
+}
+.about-parent{
+    text-align: center;
+    justify-content: center;
+    padding: 5% 10%;
+    border: 1px solid;
+}
+.about-parent p{
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+.view_resume-div{
+    justify-content: center;
+    margin: 0% 41% 0% 41% ;
+}
+.photos_container img{
+    height: 350px;
+    width: 350px;
+    border-radius: 12px;
+    
+}
+.photos_container{
+    border: 1px solid;
+    padding: 5% 0% 10% 0%;
+    background: black;
+    color: white;
+    border-radius: 12px;
+}
+.photos_container h1{
+    margin-bottom: 5%;
+    margin-top: 0%;
+    size: 80px;
+}
+.pro_info h1,h2{
+    font-size: 60px;
+    font-weight: 500;
+}

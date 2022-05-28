@@ -1,0 +1,32 @@
+.bio_info-div{
+
+    display: flex;
+    gap: 2%;
+    padding: 2% 5% 2% 5%;
+    background-color: white;
+}
+.bio_info-div h3{
+    color: rgb(173, 17, 17);
+    margin-bottom: 10%;
+    font-size: 30px;
+    text-decoration: underline;
+    
+}
+.bio_info-div p{
+    text-align: left;
+}
+.bio_div_one{
+    border: 1px solid;
+    border-radius: 12px;
+    padding: 2% 5% 5% 5%;
+    background-color: black;
+    color: white;
+    
+}
+.bio_div_two{
+    border: 1px solid;
+    border-radius: 12px;
+    padding: 2% 5% 5% 5%;
+    background-color: black;
+    color: white;
+}

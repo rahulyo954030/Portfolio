@@ -1,0 +1,10 @@
+.socialMedia_container img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+.socialMedia_container{
+    display: flex;
+    gap: 2%;
+    margin-bottom: 2%;
+}

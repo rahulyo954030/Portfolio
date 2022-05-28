@@ -1,0 +1,19 @@
+.contact_container{
+    display: flex;
+    padding: 1% 5%;
+    gap: 2%;
+    text-align: center;
+}
+.contact_container>div:nth-child(2){
+    border: 1px solid;
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+}
+.contact_container>div>p{
+    padding: 5%;
+    text-align: justify;
+}
+.contact_container>div>img{
+    border-radius: 50%;
+}
