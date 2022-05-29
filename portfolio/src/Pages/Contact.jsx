@@ -10,7 +10,10 @@ const Contact = () => {
       </div>
       <div>
         <h2>About</h2>
-        <p>Strong in design and integration with intuitive problem-solving skills. Proficient in JAVASCRIPT, CSS, HTML and REACT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer (MERN Stack Web Developer) with a reputed firm driven by technology.</p>
+        <p>Strong in design and integration with intuitive problem-solving skills. Proficient in JAVASCRIPT | CSS, HTML and REACT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer (MERN Stack Web Developer) with a reputed firm driven by technology.</p>
+        <p>
+        Skills : HTML | CSS | Java Script | Type Script | React | Redux | Node.js | MongoDB | Express.js | DSA.
+        </p>
         <div>
         <p>Mobile : +91 8810632895</p>
       </div>

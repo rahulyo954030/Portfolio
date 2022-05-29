@@ -12,7 +12,9 @@ const Photos = () => {
   return (
     <div>
       <div className='photos_container'>
+          <div className='photo_div'>
             <h1>Photos</h1>
+            </div>
             <div className='pic_container'>
             <div>
                 <img src={pic7} alt="photo" />

@@ -35,6 +35,8 @@ const Home = () => {
             <div>
                 <p>Hello,
                 Strong in design and integration with intuitive problem-solving skills. Proficient in JAVASCRIPT, CSS, HTML and REACT. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer (MERN Stack Web Developer) with a reputed firm driven by technology.</p>
+                
+       <p> Skills : HTML | CSS | Java Script | Type Script | React | Redux | Node.js | MongoDB | Express.js | DSA.</p>
             </div>
             <div className='view_resume-div'>
                 <div className='view_resume'>
